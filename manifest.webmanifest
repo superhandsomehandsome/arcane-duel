@@ -1,0 +1,14 @@
+{
+  "name": "秘术对决：禁忌魔典",
+  "short_name": "秘术对决",
+  "description": "Arcane Duel: The Forbidden Grimoire",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#2a1d12",
+  "theme_color": "#2a1d12",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
