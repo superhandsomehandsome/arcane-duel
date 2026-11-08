@@ -1,6 +1,6 @@
 // 离线缓存：打开过一次之后，没网（比如飞机上）也能玩
 // 策略：先用缓存秒开，同时在后台联网取新版本，下次打开就是新版
-const CACHE = 'arcane-duel-v3.7-1794141587234';
+const CACHE = 'arcane-duel-v3.7-1794141783860';
 const CORE = ['./', './index.html', './manifest.webmanifest', './apple-touch-icon.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
